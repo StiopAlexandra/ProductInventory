@@ -1,0 +1,17 @@
+C:\Users\Alexa\Desktop\Proiect\POS.controls\POS\bin\Debug\POS.exe.config
+C:\Users\Alexa\Desktop\Proiect\POS.controls\POS\bin\Debug\POS.exe
+C:\Users\Alexa\Desktop\Proiect\POS.controls\POS\bin\Debug\POS.pdb
+C:\Users\Alexa\Desktop\Proiect\POS.controls\POS\bin\Debug\entitati.dll
+C:\Users\Alexa\Desktop\Proiect\POS.controls\POS\bin\Debug\entitati.pdb
+C:\Users\Alexa\Desktop\Proiect\POS.controls\POS\obj\Debug\POS.AdaugaElemPachet.resources
+C:\Users\Alexa\Desktop\Proiect\POS.controls\POS\obj\Debug\POS.AdaugaPachet.resources
+C:\Users\Alexa\Desktop\Proiect\POS.controls\POS\obj\Debug\POS.MainForm.resources
+C:\Users\Alexa\Desktop\Proiect\POS.controls\POS\obj\Debug\POS.FormAdauga.resources
+C:\Users\Alexa\Desktop\Proiect\POS.controls\POS\obj\Debug\POS.FormModifica.resources
+C:\Users\Alexa\Desktop\Proiect\POS.controls\POS\obj\Debug\POS.FormProdServ.resources
+C:\Users\Alexa\Desktop\Proiect\POS.controls\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\Alexa\Desktop\Proiect\POS.controls\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\Alexa\Desktop\Proiect\POS.controls\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\Alexa\Desktop\Proiect\POS.controls\POS\obj\Debug\POS.csproj.CopyComplete
+C:\Users\Alexa\Desktop\Proiect\POS.controls\POS\obj\Debug\POS.exe
+C:\Users\Alexa\Desktop\Proiect\POS.controls\POS\obj\Debug\POS.pdb

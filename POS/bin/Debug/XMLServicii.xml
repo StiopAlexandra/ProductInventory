@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProdusAbstract xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProdusAbstract xsi:type="Serviciu">
+    <Id>1</Id>
+    <Nume>Instalare Windows</Nume>
+    <CodIntern>1001</CodIntern>
+    <Pret>100</Pret>
+    <Categorie>Calculatoare</Categorie>
+  </ProdusAbstract>
+  <ProdusAbstract xsi:type="Serviciu">
+    <Id>2</Id>
+    <Nume>Montare SSD</Nume>
+    <CodIntern>1002</CodIntern>
+    <Pret>100</Pret>
+    <Categorie>Calculatoare</Categorie>
+  </ProdusAbstract>
+</ArrayOfProdusAbstract>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProdusAbstract xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProdusAbstract xsi:type="Pachet">
+    <Id>1</Id>
+    <Nume>Pachet 1</Nume>
+    <CodIntern>503</CodIntern>
+    <Pret>200</Pret>
+    <Categorie>IT</Categorie>
+    <Elem_pachet>
+      <ProdusAbstract xsi:type="Serviciu">
+        <Id>1</Id>
+        <Nume>Instalare Windows</Nume>
+        <CodIntern>1001</CodIntern>
+        <Pret>100</Pret>
+        <Categorie>Calculatoare</Categorie>
+      </ProdusAbstract>
+      <ProdusAbstract xsi:type="Serviciu">
+        <Id>1</Id>
+        <Nume>Montare SSD</Nume>
+        <CodIntern>1002</CodIntern>
+        <Pret>100</Pret>
+        <Categorie>Calculatoare</Categorie>
+      </ProdusAbstract>
+    </Elem_pachet>
+    <NrProd>0</NrProd>
+    <NrServ>2</NrServ>
+  </ProdusAbstract>
+  <ProdusAbstract xsi:type="Pachet">
+    <Id>2</Id>
+    <Nume>Pachet 2</Nume>
+    <CodIntern>500</CodIntern>
+    <Pret>1050</Pret>
+    <Categorie>IT</Categorie>
+    <Elem_pachet>
+      <ProdusAbstract xsi:type="Produs">
+        <Id>2</Id>
+        <Nume>Imprimanta</Nume>
+        <CodIntern>10001</CodIntern>
+        <Pret>700</Pret>
+        <Categorie>Periferice</Categorie>
+        <Producator>HP</Producator>
+      </ProdusAbstract>
+      <ProdusAbstract xsi:type="Produs">
+        <Id>2</Id>
+        <Nume>Casti</Nume>
+        <CodIntern>10003</CodIntern>
+        <Pret>250</Pret>
+        <Categorie>Periferice</Categorie>
+        <Producator>Philips</Producator>
+      </ProdusAbstract>
+      <ProdusAbstract xsi:type="Serviciu">
+        <Id>2</Id>
+        <Nume>Montare SSD</Nume>
+        <CodIntern>1002</CodIntern>
+        <Pret>100</Pret>
+        <Categorie>Calculatoare</Categorie>
+      </ProdusAbstract>
+    </Elem_pachet>
+    <NrProd>2</NrProd>
+    <NrServ>1</NrServ>
+  </ProdusAbstract>
+  <ProdusAbstract xsi:type="Pachet">
+    <Id>3</Id>
+    <Nume>Pachet 3</Nume>
+    <CodIntern>502</CodIntern>
+    <Pret>4000</Pret>
+    <Categorie>IT</Categorie>
+    <Elem_pachet>
+      <ProdusAbstract xsi:type="Produs">
+        <Id>3</Id>
+        <Nume>Laptop</Nume>
+        <CodIntern>10002</CodIntern>
+        <Pret>3900</Pret>
+        <Categorie>Calculatoare</Categorie>
+        <Producator>Asus</Producator>
+      </ProdusAbstract>
+      <ProdusAbstract xsi:type="Serviciu">
+        <Id>3</Id>
+        <Nume>Instalare Windows</Nume>
+        <CodIntern>1001</CodIntern>
+        <Pret>100</Pret>
+        <Categorie>Calculatoare</Categorie>
+      </ProdusAbstract>
+    </Elem_pachet>
+    <NrProd>1</NrProd>
+    <NrServ>1</NrServ>
+  </ProdusAbstract>
+</ArrayOfProdusAbstract>

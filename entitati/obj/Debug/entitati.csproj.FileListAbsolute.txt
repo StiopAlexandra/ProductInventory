@@ -1,0 +1,48 @@
+D:\ANUL II\POO\LAB2\POS\entitati\bin\Debug\entitati.dll
+D:\ANUL II\POO\LAB2\POS\entitati\bin\Debug\entitati.pdb
+D:\ANUL II\POO\LAB2\POS\entitati\obj\Debug\entitati.csprojAssemblyReference.cache
+D:\ANUL II\POO\LAB2\POS\entitati\obj\Debug\entitati.csproj.CoreCompileInputs.cache
+D:\ANUL II\POO\LAB2\POS\entitati\obj\Debug\entitati.dll
+D:\ANUL II\POO\LAB2\POS\entitati\obj\Debug\entitati.pdb
+D:\ANUL II\POO\LAB3\POS\entitati\bin\Debug\entitati.dll
+D:\ANUL II\POO\LAB3\POS\entitati\bin\Debug\entitati.pdb
+D:\ANUL II\POO\LAB3\POS\entitati\obj\Debug\entitati.csprojAssemblyReference.cache
+D:\ANUL II\POO\LAB3\POS\entitati\obj\Debug\entitati.csproj.CoreCompileInputs.cache
+D:\ANUL II\POO\LAB3\POS\entitati\obj\Debug\entitati.dll
+D:\ANUL II\POO\LAB3\POS\entitati\obj\Debug\entitati.pdb
+D:\ANUL II\POO\LAB4\POS\entitati\bin\Debug\entitati.dll
+D:\ANUL II\POO\LAB4\POS\entitati\bin\Debug\entitati.pdb
+D:\ANUL II\POO\LAB4\POS\entitati\obj\Debug\entitati.csprojAssemblyReference.cache
+D:\ANUL II\POO\LAB4\POS\entitati\obj\Debug\entitati.csproj.CoreCompileInputs.cache
+D:\ANUL II\POO\LAB4\POS\entitati\obj\Debug\entitati.dll
+D:\ANUL II\POO\LAB4\POS\entitati\obj\Debug\entitati.pdb
+C:\Users\Alexa\Downloads\ANUL II\SEM II\POO\LAB4\POS\entitati\bin\Debug\entitati.dll
+C:\Users\Alexa\Downloads\ANUL II\SEM II\POO\LAB4\POS\entitati\bin\Debug\entitati.pdb
+C:\Users\Alexa\Downloads\ANUL II\SEM II\POO\LAB4\POS\entitati\obj\Debug\entitati.csprojAssemblyReference.cache
+C:\Users\Alexa\Downloads\ANUL II\SEM II\POO\LAB4\POS\entitati\obj\Debug\entitati.csproj.CoreCompileInputs.cache
+C:\Users\Alexa\Downloads\ANUL II\SEM II\POO\LAB4\POS\entitati\obj\Debug\entitati.dll
+C:\Users\Alexa\Downloads\ANUL II\SEM II\POO\LAB4\POS\entitati\obj\Debug\entitati.pdb
+C:\Users\Alexa\Downloads\ANUL II\SEM II\POO\LAB5\POS\entitati\bin\Debug\entitati.dll
+C:\Users\Alexa\Downloads\ANUL II\SEM II\POO\LAB5\POS\entitati\bin\Debug\entitati.pdb
+C:\Users\Alexa\Downloads\ANUL II\SEM II\POO\LAB5\POS\entitati\obj\Debug\entitati.csprojAssemblyReference.cache
+C:\Users\Alexa\Downloads\ANUL II\SEM II\POO\LAB5\POS\entitati\obj\Debug\entitati.csproj.CoreCompileInputs.cache
+C:\Users\Alexa\Downloads\ANUL II\SEM II\POO\LAB5\POS\entitati\obj\Debug\entitati.dll
+C:\Users\Alexa\Downloads\ANUL II\SEM II\POO\LAB5\POS\entitati\obj\Debug\entitati.pdb
+C:\Users\Alexa\Downloads\ANUL II\SEM II\POO\LAB6\POS\entitati\bin\Debug\entitati.dll
+C:\Users\Alexa\Downloads\ANUL II\SEM II\POO\LAB6\POS\entitati\bin\Debug\entitati.pdb
+C:\Users\Alexa\Downloads\ANUL II\SEM II\POO\LAB6\POS\entitati\obj\Debug\entitati.csproj.CoreCompileInputs.cache
+C:\Users\Alexa\Downloads\ANUL II\SEM II\POO\LAB6\POS\entitati\obj\Debug\entitati.dll
+C:\Users\Alexa\Downloads\ANUL II\SEM II\POO\LAB6\POS\entitati\obj\Debug\entitati.pdb
+C:\Users\Alexa\Downloads\ANUL II\SEM II\POO\LAB6\POS\entitati\obj\Debug\entitati.csprojAssemblyReference.cache
+C:\Users\Alexa\Downloads\ANUL II\SEM II\POO\LAB7\POS\entitati\bin\Debug\entitati.dll
+C:\Users\Alexa\Downloads\ANUL II\SEM II\POO\LAB7\POS\entitati\bin\Debug\entitati.pdb
+C:\Users\Alexa\Downloads\ANUL II\SEM II\POO\LAB7\POS\entitati\obj\Debug\entitati.csproj.CoreCompileInputs.cache
+C:\Users\Alexa\Downloads\ANUL II\SEM II\POO\LAB7\POS\entitati\obj\Debug\entitati.dll
+C:\Users\Alexa\Downloads\ANUL II\SEM II\POO\LAB7\POS\entitati\obj\Debug\entitati.pdb
+C:\Users\Alexa\Downloads\ANUL II\SEM II\POO\LAB7\POS\entitati\obj\Debug\entitati.csprojAssemblyReference.cache
+C:\Users\Alexa\Desktop\Proiect\POS.controls\entitati\bin\Debug\entitati.dll
+C:\Users\Alexa\Desktop\Proiect\POS.controls\entitati\bin\Debug\entitati.pdb
+C:\Users\Alexa\Desktop\Proiect\POS.controls\entitati\obj\Debug\entitati.csprojAssemblyReference.cache
+C:\Users\Alexa\Desktop\Proiect\POS.controls\entitati\obj\Debug\entitati.csproj.CoreCompileInputs.cache
+C:\Users\Alexa\Desktop\Proiect\POS.controls\entitati\obj\Debug\entitati.dll
+C:\Users\Alexa\Desktop\Proiect\POS.controls\entitati\obj\Debug\entitati.pdb

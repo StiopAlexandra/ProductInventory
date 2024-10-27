@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<produse>
+	<Produs>
+		<Nume>Imprimanta</Nume>
+		<CodIntern>10001</CodIntern>
+		<Producator>HP</Producator>
+		<Pret>700</Pret>
+		<Categorie>Tehnologia Informatiei</Categorie>
+	</Produs>
+	<Produs>
+		<Nume>Laptop</Nume>
+		<CodIntern>10002</CodIntern>
+		<Producator>Asus</Producator>
+		<Pret>4000</Pret>
+		<Categorie>Tehnologia Informatiei</Categorie>
+	</Produs>
+</produse>

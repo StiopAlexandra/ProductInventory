@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProdusAbstract xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProdusAbstract xsi:type="Produs">
+    <Id>1</Id>
+    <Nume>Imprimanta</Nume>
+    <CodIntern>10001</CodIntern>
+    <Pret>700</Pret>
+    <Categorie>Periferice</Categorie>
+    <Producator>HP</Producator>
+  </ProdusAbstract>
+  <ProdusAbstract xsi:type="Produs">
+    <Id>2</Id>
+    <Nume>Casti</Nume>
+    <CodIntern>10002</CodIntern>
+    <Pret>250</Pret>
+    <Categorie>Periferice</Categorie>
+    <Producator>Philips</Producator>
+  </ProdusAbstract>
+  <ProdusAbstract xsi:type="Produs">
+    <Id>3</Id>
+    <Nume>Laptop</Nume>
+    <CodIntern>10003</CodIntern>
+    <Pret>3900</Pret>
+    <Categorie>Calculatoare</Categorie>
+    <Producator>Asus</Producator>
+  </ProdusAbstract>
+</ArrayOfProdusAbstract>
